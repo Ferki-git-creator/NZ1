@@ -2,7 +2,7 @@
  * @file nz1.c
  * @author Ferki
  * @date 10.08.2025
- * @version 1.12
+ * @version 1.0
  *
  * NanoZip Pro - World's Fastest Dependency-Free Compression
  * Universal SIMD support (AVX2/NEON/SSE2), Safe Boundaries,
