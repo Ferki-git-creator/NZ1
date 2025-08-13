@@ -1,0 +1,51 @@
+=== SMALL_REPEATING_TEXT BENCHMARK ===
+Original:    100 bytes
+Compressed:  24 bytes (24.00% ratio)
+Comp Speed:  1.75 MB/s
+Original Data CRC:     0xC1AF84B4
+Stored Header CRC:     0xC1AF84B4
+Decompressed Data CRC: 0xC1AF84B4
+Decomp Speed:25.00 MB/s
+Validation:  PASS
+
+=== LOREM_IPSUM BENCHMARK ===
+Original:    500 bytes
+Compressed:  470 bytes (94.00% ratio)
+Comp Speed:  10.20 MB/s
+Original Data CRC:     0xCE50B861
+Stored Header CRC:     0xCE50B861
+Decompressed Data CRC: 0xCE50B861
+Decomp Speed:26.32 MB/s
+Validation:  PASS
+
+=== TEXT BENCHMARK ===
+Original:    1048576 bytes
+Compressed:  16301 bytes (1.55% ratio)
+Comp Speed:  29.31 MB/s
+Original Data CRC:     0x70D9BA17
+Stored Header CRC:     0x70D9BA17
+Decompressed Data CRC: 0x70D9BA17
+Decomp Speed:30.99 MB/s
+Validation:  PASS
+
+=== BINARY BENCHMARK ===
+Original:    1048576 bytes
+Compressed:  16592 bytes (1.58% ratio)
+Comp Speed:  29.23 MB/s
+Original Data CRC:     0x04D0E435
+Stored Header CRC:     0x04D0E435
+Decompressed Data CRC: 0x04D0E435
+Decomp Speed:30.98 MB/s
+Validation:  PASS
+
+=== MINI_BINARY BENCHMARK ===
+Original:    64 bytes
+Compressed:  97 bytes (151.56% ratio)
+Comp Speed:  2.67 MB/s
+Original Data CRC:     0xC4374FF7
+Stored Header CRC:     0xC4374FF7
+Decompressed Data CRC: 0xC4374FF7
+Decomp Speed:21.33 MB/s
+Validation:  PASS
+
+[Program finished]
